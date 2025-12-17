@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+torch
+transformers
+sentence-transformers
+datasets
+faiss-gpu
+requests
+matplotlib
+joblib
+emoji
+opencc-python-reimplemented
+clean-text
+ftfy
+regex
+scipy
